@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+
+    background-image: url(img/background.jpeg);
+    backdrop-filter: blur(10px);
+    background-size: cover;
+    position: relative;
+    display:flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+
+
+}
+.q{
+    margin-top: 10px;
+    color: white;
+}
+
+.one{
+    background: rgb(60, 5, 71);
+    
+    border-radius: 5%;
+    height: 430px;
+    width: 350px;
+    border: solid black 2px;
+    text-align: center;
+    
+ 
+  
+    
+    
+}
+
+.two{
+    padding:30px;
+    display:flex;
+  
+    justify-content: center;
+
+}
+.three{
+    background-color: white;
+    color: crimson;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+.threee{
+    background-color: white;
+    color: crimson;
+    font-weight: bold;
+    border-radius: 50%;
+
+
+}
+.four{
+    position: relative;
+    left: 5px;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.s{
+    font-size: 60px;
+}
+.six{
+    margin: 10px;
+    font-size: 40px;
+    font: bold;
+    color: white;
+}
